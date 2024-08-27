@@ -3,6 +3,8 @@
 
 - <b>NFT(Non-fungible token) e-shop</b>
   - [E-shop creation with PHP, smart contract](https://github.com/edvinaswasd/nftshop)
+- <b>Crypto Data Scraper from crypto.com</b>
+  - [Crypto Data Scraper/ NET framework](https://github.com/edvinaswasd/cryptodatascraper)
 
 
 
