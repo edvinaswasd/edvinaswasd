@@ -1,4 +1,5 @@
-<h1>Hi, I'm Edvinas! <br/><a href="https://github.com/edvinaswasd">Programmer</a>
+<h1>Hi, I'm Edvinas! <br/><a href="https://github.com/edvinaswasd">Software Developer</a>
+  
 <h2>👨‍💻 Programming Development Projects:</h2>
 
 - <b>NFT(Non-fungible token) e-shop</b>
