@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @edvinaswasd
-- 👀 I’m interested in C, C++ ; Python
-- 🌱 I’m currently learning Bash,Javascript, C++
-- 💞️ I’m looking to collaborate on Python, C++ projects.
-- 📫 Reach out to me: edvinulis01@gmail.com
+<h1>Hi, I'm Edvinas! <br/><a href="https://github.com/edvinaswasd">Programmer</a>
+<h2>👨‍💻 Website Development Projects:</h2>
 
-<!---
-edvinaswasd/edvinaswasd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- <b>NFT(Non-fungible token) e-shop</b>
+  - [E-shop creation with PHP, smart contract](https://github.com/edvinaswasd/nftshop)
+
+
+
+
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
